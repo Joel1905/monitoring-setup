@@ -1,0 +1,6 @@
+# Ignorar archivos y directorios específicos
+*.log
+*.env
+node_modules/
+.vscode/
+.idea/
